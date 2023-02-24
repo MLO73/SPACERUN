@@ -6,6 +6,8 @@ A spaceship is heading to a strange object, suddenly falling into a wormhole, af
 
 ![Gameplay](https://github.com/MLO73/SPACERUN/blob/main/resources/Screenshot.png?raw=true)
 
+**Tip**: to skip the backstory, press Space
+
 ## Execution
 Here are all libraries that may be installed install before compiling:
 ```
