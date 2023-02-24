@@ -20,6 +20,7 @@ libsdl2-image-dev
 liballegro5-dev
 libsdl-image1.2-dev
 libsdl2-ttf-dev
+mpg123
 ```
 To compile the code, run:
 
