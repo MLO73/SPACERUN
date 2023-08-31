@@ -11,8 +11,8 @@ A spaceship is heading to a strange object, suddenly falling into a wormhole, af
 ## Execution
 Here are all libraries that may be installed install before compiling:
 ```
-llibsdl2-dev
-ibsdl2-mixer-dev
+libsdl2-dev
+libsdl2-mixer-dev
 libavcodec-dev
 ffmpeg
 libswscale-dev
